@@ -52,6 +52,16 @@ python main.py
 
 See `devcontainer.json` for environment variables required.
 
+## AI Agents
+
+[Aider commands](https://aider.chat/docs/usage/commands.html)
+
+[Aider tips](https://aider.chat/docs/usage/tips.html)
+
+[Goose CLI commands](https://block.github.io/goose/docs/guides/goose-cli-commands)
+
+[Goose tips](https://block.github.io/goose/docs/guides/tips/)
+
 ## License
 
 MIT License
